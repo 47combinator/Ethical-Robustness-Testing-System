@@ -123,9 +123,14 @@ ERTS/
 | Education | 0.70 | 3 |
 | General | 0.65 | 5 |
 
-## Author
+## Authors
 
-**Pratyush** — Independent Researcher
+- **Vyankatesh Dawale** (BTech Student)
+- **Saim Kotkar** (BTech Student)
+- **Pratyush Chaudhari** (BTech Student)
+- **Pavitha Nooji** (Associate Dean)
+
+*Vishwakarma University, Pune, India*
 
 ## License
 

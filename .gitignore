@@ -7,6 +7,6 @@ build/
 .env
 .venv/
 venv/
-*.docx
-generate_doc.py
-generate_paper.py
+*.log
+!ERTS_IEEE_Fixed.docx
+
