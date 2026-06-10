@@ -1,3 +1,10 @@
+<!--
+  Copyright (c) 2025 Pratyush Chaudhari. All rights reserved.
+  Part of the Ethical Robustness Testing System (ERTS).
+  Research: https://zenodo.org/records/20544025
+  For academic study and personal learning only. No commercial use.
+-->
+
 # ERTS — Explained Like You're Not a Developer
 
 ## *A complete guide to the Ethical Robustness Testing System*

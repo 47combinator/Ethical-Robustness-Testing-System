@@ -1,3 +1,10 @@
+<!--
+  Copyright (c) 2025 Pratyush Chaudhari. All rights reserved.
+  Part of the Ethical Robustness Testing System (ERTS).
+  Research: https://zenodo.org/records/20544025
+  For academic study and personal learning only. No commercial use.
+-->
+
 # ERTS — Complete Mathematical Reference
 
 ## The Formal Mathematics Behind the Ethical Robustness Testing System
